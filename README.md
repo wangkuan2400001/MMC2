@@ -2,7 +2,7 @@
 
 本仓库收集了一些资源，用于教学演示如何在浏览器中使用MediaPipe进行基于AI的无标记动作捕捉。
 
-手势识别与交互
+<p>手势识别与交互</p>
 <a href="https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker" target="_blank" rel="noopener noreferrer">Hand Landmarker (MediaPipe Studio)</a>
 <br>
 <a href="https://mediapipe-studio.webapps.google.com/studio/demo/gesture_recognizer" target="_blank" rel="noopener noreferrer">Gesture Recognizer (MediaPipe Studio)</a>
